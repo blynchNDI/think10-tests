@@ -6,7 +6,7 @@ const expect = chai.expect;
 let browser;
 let page;
 let loc = __dirname;
-let loc2 = loc.slice(0, -6)
+let loc2 = loc.slice(0, -9)
 console.log(loc);
 url = 'file:' + loc2 + '/00/index.html';
 console.log(url);
