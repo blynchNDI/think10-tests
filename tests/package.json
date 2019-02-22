@@ -1,0 +1,16 @@
+{
+  "name": "gwd_tool_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "puppeteer": "^1.10.0"
+  }
+}
